@@ -11,7 +11,7 @@
     <AboutModal />
     <div class="flex flex-col items-center justify-center w-full h-screen">
         <!-- big text -->
-        <span class="splrge-title">
+        <h1 class="splrge-title">
           SPLRGE
         </span>
         <!-- -->
