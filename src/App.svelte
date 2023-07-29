@@ -13,7 +13,7 @@
         <!-- big text -->
         <h1 class="splrge-title">
           SPLRGE
-        </span>
+        </h1>
         <!-- -->
         
         <div class="flex space-x-4 leading-loose text-zinc-300">
