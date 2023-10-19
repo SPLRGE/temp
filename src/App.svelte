@@ -1,5 +1,4 @@
 <script>
-    import { setContext } from 'svelte'
     import AboutModal from './lib/AboutModal.svelte'
     import { isModalOpen } from './store'
 </script>
